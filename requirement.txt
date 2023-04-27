@@ -1,0 +1,6 @@
+telebot
+os
+svglib
+svg2rlg
+reportlab
+unicodedata
